@@ -1,0 +1,26 @@
+{
+  "name": "pacman-game",
+  "version": "1.0.0",
+  "description": "Pacman Game",
+  "main": "pacmen.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SRai22/m3-w3-d3-assignment.git"
+  },
+  "keywords": [
+    "pacman"
+  ],
+  "author": "Shravan S Rai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SRai22/m3-w3-d3-assignment/issues"
+  },
+  "homepage": "https://github.com/SRai22/m3-w3-d3-assignment#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
